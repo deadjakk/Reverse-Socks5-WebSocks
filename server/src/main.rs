@@ -16,7 +16,7 @@ struct Opt {
     #[structopt(short)]
     frontend: String,
 
-    /// Socket address for front end proxy, the one to which the client will connect
+    /// Socket address for front end proxy, the one to which the client (implant) will connect
     #[structopt(short)]
     backend: String,
 }

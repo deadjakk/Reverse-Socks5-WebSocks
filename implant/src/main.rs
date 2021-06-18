@@ -1,5 +1,5 @@
 use std::error::Error;
-use client::*;
+use implant::*;
 mod config;
 use config::{PORT,IP};
 

@@ -1,5 +1,5 @@
 [package]
-name = "client"
+name = "implant"
 version = "0.1.0"
 authors = ["deadjakk <deadjakk@shell.rip>"]
 edition = "2018"

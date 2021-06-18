@@ -1,0 +1,8 @@
+[package]
+name = "utils"
+version = "0.1.0"
+authors = ["deadjakk <deadjakk@shell.rip>"]
+edition = "2018"
+
+[dependencies]
+websocket = { git = "https://github.com/deadjakk/rust-websocket" }

@@ -1,0 +1,12 @@
+[workspace]
+members = [
+    "client",
+    "server",
+    "utils"
+]
+[profile.release]
+opt-level = "z"
+panic = "abort"
+lto = true
+incremental = false
+
